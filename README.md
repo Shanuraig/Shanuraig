@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanuraig&label=Profile%20views&color=0e75b6&style=flat" alt="shanuraig" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanuraig" alt="shanuraig" /></a> </p>
-
 - 🔭 I’m currently working on [🔭 I’m currently working on Tic-Tac-Toe with AI & Score Tracker](https://github.com/Shanuraig/Tic-Tac-Toe.git)
 
 - 🌱 I’m currently learning **Advanced JavaScript, React Native, Next.js, DSA (C++) & SQL**
