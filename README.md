@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanuraig&label=Profile%20views&color=0e75b6&style=flat" alt="shanuraig" /> </p>
 
-- 🔭 I’m currently working on [🔭 I’m currently working on Tic-Tac-Toe with AI & Score Tracker](https://github.com/Shanuraig/Tic-Tac-Toe.git)
-
 - 🌱 I’m currently learning **Advanced JavaScript, React Native, Next.js, DSA (C++) & SQL**
 
-- 👯 I’m looking to collaborate on **Interactive Web Projects using React & GSAP**
+- 👯 I’m looking to collaborate on **Interactive Web Projects using React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shanuraig](https://github.com/Shanuraig)
+- 👨‍💻 All of my projects are available at [GYAN PRAKASH RAI](https://github.com/Shanuraig)
 
 - 📫 How to reach me **Shanuraig@gmail.com**
 
